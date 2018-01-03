@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!-- saved from url=(0101)http://localhost:63342/demo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.html?_ijt=lrrobul71116ptgflf8vejb2e4 -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>英雄联盟官方网站</title>
+    <style type="text/css">
+        .t1{
+            color: indigo;
+            padding-left: 120px;
+            list-style-type: none;
+            float: left;
+        }
+        .t2{
+            color: red;
+            padding-left: 120px;
+            list-style-type: none;
+            float: left;
+        }
+    </style>
+</head>
+
+<body background="http://localhost:63342/demo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.html?_ijt=lrrobul71116ptgflf8vejb2e4" bgcolor="#eee8aa">
+
+
+<h1 align="center">英雄联盟</h1>
+<hr color="black" size="5px">
+<l>
+    <li class="t1" style="font-size:20px">综合资讯</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li class="t1" style="font-size:20px">视频中心</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li class="t2" style="font-size:20px">活动中心</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li class="t1" style="font-size:20px">赛事中心</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li class="t2" style="font-size:20px">自助系统</li>
+</l>
+
+<center>
+    <br><br><br><br><br><h1 class=".g">英雄联盟账号登录</h1>
+
+    &nbsp;&nbsp;&nbsp;用户名：<input type="text"><br><br>
+    &nbsp;&nbsp;&nbsp;密&nbsp;&nbsp;&nbsp;码：<input type="password"><br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="登录">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="注册">
+</center>
+
+</body></html>
